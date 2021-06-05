@@ -1,0 +1,57 @@
+*{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#contact-section{
+    align-content: center;
+    margin:28px;
+    padding:4px;
+}
+.dark-color{
+    background-color: #293241;
+    color: #98c1d9;
+    
+}
+
+h1{
+    font-size: 36px;
+}
+
+.light-color{
+    background-color: #e0fbfc ;
+    color: #293241;
+}
+
+.primary-color{
+    background-color: #98c1d9 ;
+    color: #293241;
+}
+
+.accent-color{
+    background-color: #ee6c4d ;
+    color: #e0fbfc;
+}
+
+header {
+    position: fixed;
+    text-align: right;
+    top: 0px;
+    width: 98%;
+    padding: 1%;
+    display:block;     
+}
+
+.spacer{
+    padding: 4px;
+    margin: 12px;
+    border: 2px solid white;
+    display: inline;
+}
+
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
